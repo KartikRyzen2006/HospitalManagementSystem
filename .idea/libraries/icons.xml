@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="icons">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/src/icons" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/src/icons" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/src/icons" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/src/icons" recursive="false" type="SOURCES" />
+  </library>
+</component>
